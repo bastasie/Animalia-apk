@@ -1,11 +1,13 @@
-<div align="center">
+# Animalia - Starling Numbers Research App
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This is a modern Android application built with Kotlin, Jetpack Compose, and Room Database. It replaces the original HTML/JS data tools for Animalia.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Species Database:** Explore animal species, cognitive scores, and π_comm values.
+- **Vocalization Breakdown:** Review detailed acoustic, context, and intent properties that construct the Starling Norm for animal bioacoustics.
+- **Local Analytics Dashboard:** Powered by Room for rapid insight visualization.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Technologies
+- Kotlin
+- Jetpack Compose
+- Room Database (Local SQLite)
